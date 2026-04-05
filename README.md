@@ -45,4 +45,4 @@ The whole stack lives across multiple repos — hardware firmware, web dashboard
 
 ---
 
-*Aayush builds things that bridge the gap between hardware and intelligence. If that's interesting, let's talk.*
+*I builds things that bridge the gap between hardware and intelligence. If that's interesting, let's talk.*
