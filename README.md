@@ -45,4 +45,4 @@ The whole stack lives across multiple repos — hardware firmware, web dashboard
 
 ---
 
-*I builds things that bridge the gap between hardware and intelligence. If that's interesting, let's talk.*
+*I build things that bridge the gap between hardware and intelligence. If that's interesting, let's talk.*
