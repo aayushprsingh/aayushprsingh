@@ -11,7 +11,7 @@ When I'm not knee-deep in firmware and sensors, I'm exploring AI agent workflows
 ## 🔥 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=aayushprsingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=aayushprsingh&theme=dark&hide_border=false)
+![](https://streak-stats.demolab.com/?user=aayushprsingh&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushprsingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
